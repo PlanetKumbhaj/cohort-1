@@ -1,0 +1,35 @@
+// Programming language 
+
+/* 0s and 1s
+Assembly langage 
+
+- nodejs is javascript runtime
+= Popular language 
+-cpp
+- java
+- js
+- python
+-rust
+- golang
+
+
+==Primitives
+
+-variables
+-numbers
+-string
+-array
+-Loop
+- for loop
+- while loop
+- function(primitive ,callbacks)
+- APIs(Nativ VS Web)
+
+*/
+
+/**
+ * Simple Program 
+ * -sum from 1 to 100
+ * - fibonacci
+ * - pattern creation
+ * **/
