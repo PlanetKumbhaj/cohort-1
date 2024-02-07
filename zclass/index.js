@@ -8,5 +8,20 @@ const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password : '',
-    database : 'aiml',
+    database : 'Zclass',
 });
+
+const db1 = mysql.createPoolCluster({
+    host : 'dbb1kumbhaj.web',
+    user : ' admin', 
+    password : "",
+    database : 'zclass2'
+})
+
+const db2 = mysql.keysession({
+    host : ' dbkumbhaj.in',
+    user : ' admin ',
+    password : "12344567899",
+    database : 'QClass'
+
+})
